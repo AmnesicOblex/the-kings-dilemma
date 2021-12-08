@@ -13,3 +13,4 @@
 ## Chronicle of Kings
 
 1. [The Reign of King Harold V - 11/20/2020](chronicle-of-kings/reign-1.md)
+2. [The Reign of King Billiam Buffleson - 01/09/2020](chronicle-of-kings/reign-2.md)
