@@ -9,3 +9,7 @@
 - [House Tailor, Dukes of Coden](great-houses/house-tailor.md)
 - [House Windeye, Dukes of Solad](great-houses/house-windeye.md)
 - [House Wynegarten, Marquises of Allwed](great-houses/house-wynngarten.md)
+
+## Chronicle of Kings
+
+1. [The Reign of King Harold V - 11/20/2020](chronicle-of-kings/reign-1.md)
