@@ -12,4 +12,4 @@ A band of marauders offered to sell the council the **Golden Map**, which they o
 
 The tribune brought the council news from the people of Three Trunks, a small village in the Mark of Dualak. They claimed a witch was living in the nearby Hedgehog Woods. House Grappel sent the army **Into the Woods** to apprehend the witch.
 
-After a long and prosperous reign king Amos died of natural causes, succeeded by King William Waffleson of House Cage. This peaceful transition of power greatly increased the prestige of House Cage.
+After a long and prosperous reign, King Amos died of natural causes, succeeded by King William Waffleson of House Cage. This peaceful transition of power greatly increased the prestige of House Cage.
