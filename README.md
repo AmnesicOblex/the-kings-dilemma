@@ -16,4 +16,5 @@
 2. [The Reign of King Billiam Buffleson - 01/09/2020](chronicle-of-kings/reign-2.md)
 3. [The Reign of King Amos - 08/20/2020](chronicle-of-kings/reign-3.md)
 4. [The Reign of King William Waffleson - 08/20/2020](chronicle-of-kings/reign-4.md)
-5. [The Reign of King Graham Grappel - 09/25/2020](chronicle-of-kings/reign-4.md)
+5. [The Reign of King Graham Grappel - 09/25/2020](chronicle-of-kings/reign-5.md)
+6. [The Reign of King Squilliam Squaffleson - 09/25/2020](chronicle-of-kings/reign-6.md)
