@@ -4,7 +4,7 @@ The reign of King Graham Grappel began with an period of exploration and discove
 
 House Grappel unearthed an **Ancient Library**, to the joy of the Kingdom's scholars. House Tailor ordered Braccus, a deserter from the expedition of the **Golden Map** to be executed by imported swamp snakes. The council also set up a supply which helped the expedition eventually find **A Temple Worth Its Weight in Gold**.
 
-Houses Windeye banned the style of abstract art developed by a young painter. Artists caught painting or sculpting in this unorthodox style by the city watch would have their hands cut off and nailed to their doors. This drastic measure stimulated a revival of **The Classic Arts**.
+House Windeye banned the style of abstract art developed by a young painter. Artists caught painting or sculpting in this unorthodox style by the city watch would have their hands cut off and nailed to their doors. This drastic measure stimulated a revival of **The Classic Arts**.
 
 House Wynegarten celebrated the discovery of the Golden Temple by throwing an expensive **Golden Fire Feast**.
 
