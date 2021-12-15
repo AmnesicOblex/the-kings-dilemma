@@ -8,7 +8,7 @@ The Cult of the Mother proclaimed that slavery was immoral and House Tailor made
 
 A drought ravaged the Mark of Tiryll and the Kingdom of Muhir offered to sell the council some suspiciously cheap wheat. House Dar-a-Lek decided the deal was too good to be true. The subsequent starvation was **A Tale of Sorrow** for the Mark of Tiryll, who blamed House Dar-a-Lek.
 
-A band of marauders offered to sell the council the **Golden Map**, which they obtained by exterminating a group of Sand Priestesses at a secret desert temple. House Tailor decide to slay the marauders, avenging their victims and recovering the **Golden Map**.
+A band of marauders offered to sell the council the **Golden Map**, which they obtained by exterminating a group of Sand Priestesses at a secret desert temple. House Tailor decided to slay the marauders, avenging their victims and recovering the **Golden Map**.
 
 The tribune brought the council news from the people of Three Trunks, a small village in the Mark of Dualak. They claimed a witch was living in the nearby Hedgehog Woods. House Grappel sent the army **Into the Woods** to apprehend the witch.
 
