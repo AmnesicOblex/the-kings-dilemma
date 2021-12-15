@@ -6,7 +6,7 @@ House Tailor sponsored the first expedition to the **City of Tents** and rumors 
 
 The Cult of the Mother proclaimed that slavery was immoral and House Tailor made a decree to **Free Konfurtahns**, offering asylum to any slave who entered the kingdom.
 
-A drought ravage the Mark of Tiryll and the Kingdom of Muhir offered to sell the council some suspiciously cheap wheat. House Dar-a-Lek decided the deal was too good to be true. The subsequent starvation was **A Tale of Sorrow** for the Mark of Tiryll, who blamed House Dar-a-Lek.
+A drought ravaged the Mark of Tiryll and the Kingdom of Muhir offered to sell the council some suspiciously cheap wheat. House Dar-a-Lek decided the deal was too good to be true. The subsequent starvation was **A Tale of Sorrow** for the Mark of Tiryll, who blamed House Dar-a-Lek.
 
 A band of marauders offered to sell the council the **Golden Map**, which they obtained by exterminating a group of Sand Priestesses at a secret desert temple. House Tailor decide to slay the marauders, avenging their victims and recovering the **Golden Map**.
 

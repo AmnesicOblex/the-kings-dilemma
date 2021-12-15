@@ -6,6 +6,6 @@ The knights returned from their expedition **Into the Woods** with Hysadora, the
 
 House Tailor continued leading an expedition following the **Golden Map** through treacherous swamps.
 
-House Dar-a-Lek funded a **Royal Bank** called **The Coin**, modeled on the Kauppian Bank of Cards. Only Time will tell if this was a good investment.
+House Dar-a-Lek funded a **Royal Bank** called **The Coin**, modeled on the Kauppian Bank of Cards. Only time will tell if this was a good investment.
 
 After a long and tumultuous reign, King William Waffleson died in his sleep. The king was succeeded by King Graham Grappel of House Grappel.
