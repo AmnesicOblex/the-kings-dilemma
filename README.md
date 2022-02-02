@@ -18,3 +18,7 @@
 4. [The Reign of King William Waffleson - 08/20/2021](chronicle-of-kings/reign-4.md)
 5. [The Reign of King Graham Grappel - 09/25/2021](chronicle-of-kings/reign-5.md)
 6. [The Reign of King Squilliam Squaffleson - 09/25/2021](chronicle-of-kings/reign-6.md)
+
+## Storylines
+
+- [Mysteries](storylines/mysteries.md)
