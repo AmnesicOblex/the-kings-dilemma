@@ -2,4 +2,4 @@
 
 _"Tranquility in death"_
 
-House Raccoon is yet to leave their mark on the annals of history.
+During the reign of King Grammy Au Grappel, House Raccoon and the High Commander helped Ankist become the **Rulers of the Waves** by hunting down the pirate Arcinia the Relentless.

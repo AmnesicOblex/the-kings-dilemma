@@ -1,0 +1,13 @@
+# The Reign of King Grammy Au Grappel - 01/29/2022
+
+Scholars tried unsuccessfully for months to convince the **Holy Guardians** to let them into the **Library**, a great **Glass Tower** on the island of Salaan. Alas, the Holy Guardians would not yield and House Windeye decided to force their way into the Library with our army. Men, women, and children rose up to defend their revered Library and our army was forced to slay them all. Not just the men, but the women and children too. In the heat of the batlle, the library was set ablaze. Although we rule the island, centuries of knowledge have been lost forever. Only one weird book, **The Book of Choices**, is retrieved from the ashes, strangely unscathed by the fire. The decisions of House Windeye have irreparably **Scarred Knowledge** about the Salaan Union.
+
+A scholar named Litmius discovered a secret chamber in the Golden Temple containing hundreds of golden leaves minutely inscribed in the old language. We decided to send more scholars to aid with the translation, at the potential cost of leaked information about the secret ritual to create gold from the blood of prisoners. The translations shed light on the mystery of **The Rise and Fall of the Sun Empire**.
+
+The City of Tents boast that they were once the capital of the Sabbiyan League, a powerful alliance of city-states that allegedly dominated the world centuries ago through their trading supremacy before falling into ruin overnight during a cursed black eclipse. The council chose to ignore these rumors, though the sinister image of a black eclipse lingered in their minds.
+
+An ancient scroll discovered in the Golden Temple hypothesizes that every ounce of gold in the world originated from the dark ritual we discovered. The Guild Master wanted to hide this idea, but House Windeye decided that the people of Ankist deserved to know about the ritual of **Blood for Coin**.
+
+The _Endearing_, a ship from Sygnar's fleet turned to piracy during the expedition and began preying upon our trade routes. The crew quickly gained a reputation for cruelty and bloodlust, and their captain became known as "Arcinia the Relentless". The High Commander said piracy should not be tolerated and House Raccoon agreed. The Council sent a military vessel to hunt for the _Endearing_. After a gruesome battle, our sailors boarded the ship and slaughtered the pirates from first to last. Many rejoiced for the end of Arcinia's reign of terror and House Raccoon helped Ankist become the **Rulers of the Waves**.
+
+After a short, but prosperous reign, King Grammy Au Grappel was eventually succeeded by Queen Jillian Juffleson from House Cage.

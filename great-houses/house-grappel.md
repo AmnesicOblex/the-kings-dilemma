@@ -9,3 +9,5 @@ At the beginning of the reign of King William Waffleson, the knights returned fr
 The reign of King Graham Grappel began with an period of exploration and discovery in which, amongst other things, House Grappel unearthed an **Ancient Library**, to the joy of the Kingdom's scholars. After a long and eventful reign, King Graham Grappel died in his sleep and was succeeded by King Squilliam Squaffleson of House Cage.
 
 During the reign of King Squilliam Squaffleson, House Grappel followed some of Hysadora's cryptic instructions, eventually discovering **The Virtue of Destruction** and the effects of _onyx dust_, a flammable black powder.
+
+After an eventful reign, King Squilliam Squaffleson was eventually succeeded by King Grammy Au Grappel who had a short, but prosperous reign.
