@@ -12,7 +12,7 @@ The trumpets strike three rising notes and eighty-one doves are released as Hara
 
 To thank the King for the prosperous business, the smugglers gift him a masterful red iron sword named Scarlet Tide. The army soon elects the blade as its symbol and as a sign of its future power. A significant portion of the imported red iron starts flowing towards the royal armory, and military smiths begin experimenting with new ways of working with the sturdy metal. Because of its exceptional sturdiness, red iron is difficult to mold into weapons and armor, but a few blades are forged for the most elite regiments.
 
-_Active Effect: The signer of this card gains 3 power immediately after signing._
+_Effect: The signer of this card gains 3 power immediately after signing._
 
 ## Iron that Pierces the Sky
 
