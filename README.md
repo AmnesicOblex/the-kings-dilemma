@@ -24,5 +24,6 @@
 
 - [Storyline Beta](storylines/beta.md)
 - [Storyline Delta](storylines/delta.md)
+- [Storyline Epsilon](storylines/epsilon.md)
 - [Storyline Zeta](storylines/zeta.md)
 - [Mysteries](storylines/mysteries.md)
