@@ -1,4 +1,4 @@
-# The Reign of King Squilliam Squaffleson - 09/25/2020
+# The Reign of King Squilliam Squaffleson - 09/25/2021
 
 The reign of King Squilliam Squaffleson began with a series of revolutionary inventions and discoveries. House Cage created **A Grim Fountain of Gold** after they discovered a method to extract gold from the blood of convicted criminals. Following Hysadora's cryptic instructions, House Grappel made another discovery: **The Virtue of Destruction** and the effects of _onyx dust_, a flammable black powder.
 
@@ -10,4 +10,4 @@ When the alchemist Zosimos came to the council with a proposal to experiment on 
 
 After a long a difficult expedition, House Windeye discovered **A Glass Tower** on the lost island of the Kingdom of Salaan.
 
-After an eventful reign, King Squilliam Squaffleson was eventually succeeded by King Graham Grappel II.
+After an eventful reign, King Squilliam Squaffleson was eventually succeeded by King Grammy Au Grappel.

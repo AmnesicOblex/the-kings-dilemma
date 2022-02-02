@@ -1,4 +1,4 @@
-# The Reign of King Amos - 08/20/2020
+# The Reign of King Amos - 08/20/2021
 
 A merchant from the **City of Tents** came to the council with a lucrative trade agreement. House Tailor made a **Sinful Trade**, bringing slaves and exotic goods to the kingdom. Among the many exotic goods imported by the **Konfurtahn Traders** was a controversial book called **"A Thousand Blisses"**, which described numerous exotic sexual positions. House Celestial decided not to ban this disputed book, leading to the creation of **The Tender Souls**, a guild of talented prostitutes.
 
