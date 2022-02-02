@@ -3,6 +3,7 @@
 ## The Great Houses
 
 - [House Cage, Dukes of Gamam](great-houses/house-cage.md)
+- [House Celestials, Dukes of Natar](great-houses/house-celestials.md)
 - [House Dar-a-lek, Marquises of Tiryll](great-houses/house-dar-a-lek.md)
 - [House Grappel, Marquises of Tork](great-houses/house-grappel.md)
 - [House Raccoon, Marquises of Crann](great-houses/house-raccoon.md)
