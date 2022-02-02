@@ -23,5 +23,6 @@
 ## Storylines
 
 - [Storyline Beta](storylines/beta.md)
+- [Storyline Delta](storylines/delta.md)
 - [Storyline Zeta](storylines/zeta.md)
 - [Mysteries](storylines/mysteries.md)
