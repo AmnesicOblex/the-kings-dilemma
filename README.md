@@ -22,4 +22,5 @@
 
 ## Storylines
 
+- [Storyline Zeta](storylines/zeta.md)
 - [Mysteries](storylines/mysteries.md)
