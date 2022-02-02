@@ -22,6 +22,7 @@
 
 ## Storylines
 
+- [Storyline Alpha](storylines/alpha.md)
 - [Storyline Beta](storylines/beta.md)
 - [Storyline Gamma](storylines/gamma.md)
 - [Storyline Delta](storylines/delta.md)
