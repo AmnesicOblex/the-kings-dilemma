@@ -23,6 +23,7 @@
 ## Storylines
 
 - [Storyline Beta](storylines/beta.md)
+- [Storyline Gamma](storylines/gamma.md)
 - [Storyline Delta](storylines/delta.md)
 - [Storyline Epsilon](storylines/epsilon.md)
 - [Storyline Zeta](storylines/zeta.md)
