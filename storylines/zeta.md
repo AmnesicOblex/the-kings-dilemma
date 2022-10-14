@@ -23,3 +23,11 @@ _Effect: Knowledge increases by 2 at the start of each game._
 The book has an image of a large branched tree on the cover. It is unnaturally sturdy, but otherwise quite mundane. The scholars expected it to be written in a strange, unknown language, but surprisingly it is written in our own. The Book of Choices, as it is called, exerts a strange fascination, and few can resist the urge to open it. But those who read it start talking incoherently or fall into a deep slumber from which they never wake. Some say the truths contained in the book are so disconcerting that readers lose their grip on reality. The unsettling tome is soon locked away in a secret hall of the royal library, where no one will open it.
 
 _Effect: You feel strangely inclined to say yes. Whenever 'Aye' wins a vote, each player who voted Aye gains 1 coin._
+
+## Delirious Heritage
+
+**No Signer**
+
+We hear the King muttering: "When the glass is shattered, what do the splinters reflect?" The King's mind has been broken by a truth too horrible to contemplate. His contradictory beliefs sometimes keenly reflect an incoherence in the very nature of reality, but most of the time he is just plainly mad, and that becomes his new moniker among those who know of this secret. The Mad King jealously guards the Book of Choices in his chambers, feverishly reading it to himself and to all his heirs. This lingering madness will continue to curse the royal family for decades to come.
+
+_Effect: At the end of the first voting phase of each game, before determining the winning side of the vote, randomly pick eithr Aye or Nay and add 3 Power to that side._
